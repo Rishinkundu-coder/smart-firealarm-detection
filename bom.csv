@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"1",1," Breadboard Small"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1," LCD 16 x 2"
+"Rpot1",1,"10 kΩ Potentiometer"
+"D1",1,"Red LED"
+"D2",1,"Green LED"
+"D3",1,"Yellow LED"
+"RR_Green, RR_Yellow, RR_Red, RR_LED",4,"220 Ω Resistor"
+"PIEZO1",1," Piezo"
+"RR_Gas",1,"10 kΩ Resistor"
+"GAS2",1," Gas Sensor"
