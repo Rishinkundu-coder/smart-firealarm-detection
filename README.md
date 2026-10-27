@@ -1,5 +1,5 @@
 # smart-firealarm-detection
-# My Tinkercad Circuit Project
+
 
 ![Circuit Diagram](Stunning Migelo.png)
 
