@@ -6,7 +6,7 @@ An Arduino Uno–based fire-warning prototype that combines a gas sensor and a T
 
 ## Circuit Diagram
 
-![Circuit diagram for the Smart Fire Detection and Emergency Warning System](<Stunning Migelo.png>)
+![Circuit diagram for the Smart Fire Detection and Emergency Warning System](<circuit_diagram.png>)
 
 The diagram shows the Arduino Uno, gas sensor, TMP36 temperature sensor, 16×2 LCD, potentiometer, three status LEDs, resistors, piezo buzzer, and breadboard.
 
