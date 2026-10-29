@@ -50,11 +50,10 @@ The exact threshold values, LCD messages, LED states, and buzzer behaviour depen
 ```text
 .
 ├── README.md
-└── images/
-    └── circuit-diagram.png
+└── circuit-diagram.png
+└── components.csv
+└── source_code.ino
 ```
-
-If you use this README in another repository, keep the circuit image at `images/circuit-diagram.png` or update the image path above.
 
 ## Limitations and Safety
 
